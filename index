@@ -1,0 +1,1 @@
+opcion=int(input(" digite la opcion que desee inicio (1) nosotros(2)comprar(3)reservas(4)productos(5)"))
